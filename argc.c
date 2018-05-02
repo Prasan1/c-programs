@@ -7,7 +7,7 @@
 *---------------------------
 * OVERVIEW
 * ===========
-* This program demonstrates the
+* This program demonstrates
 * what argc & argv[] in main 
 * actually does. 
 */
